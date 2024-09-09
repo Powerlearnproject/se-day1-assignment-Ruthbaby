@@ -1,5 +1,7 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15543126&assignment_repo_type=AssignmentRepo)
+
 # SE_Day1
+
 Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
@@ -7,18 +9,18 @@ Software Engineering Day1 Assignment
 Explain what software engineering is and discuss its importance in the technology industry.
 Software engineering is the structured use of engineering principles, techniques, and tools to design, develop, test, deploy, and maintain high-quality software systems. It covers the entire process of creating and managing software products, from planning and development to ongoing support and improvement.
 
-**Importance of technology industry are;** 
-a) Efficient Problem-Solving 
-b) Quality Assurance 
-c) Scalability and Maintenance 
-d)Collaboration and Project Management 
+**Importance of technology industry are;**
+a) Efficient Problem-Solving
+b) Quality Assurance
+c) Scalability and Maintenance
+d)Collaboration and Project Management
 e)Innovation and Competitive Advantage
 f) Cost Efficiency
 
-Identify and describe at least three key milestones in the evolution of software engineering.
-Milestones include the development of programming languages are; 
+\*\*Identify and describe at least three key milestones in the evolution of software engineering.
+Milestones include the development of programming languages are;
 a)(Fortran, C), the establishment of software engineering as a discipline in the 1960s.
-b) the advent of structured programming in the 1970s. 
+b) the advent of structured programming in the 1970s.
 c) And the rise of agile methodologies in the 2000s.
 
 List and briefly explain the phases of the Software Development Life Cycle.
@@ -31,12 +33,13 @@ vi) Maintenance: Providing ongoing support, updates, and enhancements to the sof
 NB: Each phase in the Software Development Life Cycle is crucial for delivering high-quality software products that meet user's needs, adhere to budget and time constraints, and maintain compatibility with evolving technology platforms.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-  Waterfall: is a linear and sequential model where development phases follow a strict order (e.g., requirements → design → implementation → testing → deployment). Each phase must be completed before the next begins, eg Construction Projects.
- Agile methodology: An iterative and incremental approach where development is broken into small cycles called sprints. Teams continuously deliver and refine features, adapting to changes throughout the project, eg Product Development.
+Waterfall: is a linear and sequential model where development phases follow a strict order (e.g., requirements → design → implementation → testing → deployment). Each phase must be completed before the next begins, eg Construction Projects.
+Agile methodology: An iterative and incremental approach where development is broken into small cycles called sprints. Teams continuously deliver and refine features, adapting to changes throughout the project, eg Product Development.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
 1. Software Developer
-A software developer is responsible for designing, coding, testing, and maintaining software applications. They translate user requirements and project specifications into functional code.
+   A software developer is responsible for designing, coding, testing, and maintaining software applications. They translate user requirements and project specifications into functional code.
 
 Key Responsibilities:
 a) Requirements Analysis: Understanding user needs and project requirements to design appropriate software solutions.
@@ -48,18 +51,18 @@ f) Documentation: Writing technical documentation to guide future development an
 g) Code Reviews: Participating in peer reviews to ensure code quality, consistency, and adherence to best practices.
 
 2. Quality Assurance (QA) Engineer
-A QA engineer is responsible for ensuring the software product meets quality standards before it is released. They focus on identifying defects, ensuring functionality, and verifying that the software behaves as expected.
-Key Responsibilities:
-Test Planning: Developing test plans and strategies based on project requirements and user stories.
-Test Case Design: Creating detailed test cases that cover all possible scenarios, including edge cases and negative tests.
-Test Execution: Running manual and automated tests to validate the software’s performance, security, usability, and functionality.
-Defect Reporting: Identifying, documenting, and tracking bugs, and collaborating with developers to ensure issues are resolved.
-Regression Testing: Re-testing software after bugs are fixed to ensure no new issues arise.
-Quality Metrics: Monitoring and reporting on the overall quality of the product, including test coverage and defect rates.
-User Acceptance Testing (UAT): Coordinating with end-users to ensure the software meets their needs before final release.
+   A QA engineer is responsible for ensuring the software product meets quality standards before it is released. They focus on identifying defects, ensuring functionality, and verifying that the software behaves as expected.
+   Key Responsibilities:
+   Test Planning: Developing test plans and strategies based on project requirements and user stories.
+   Test Case Design: Creating detailed test cases that cover all possible scenarios, including edge cases and negative tests.
+   Test Execution: Running manual and automated tests to validate the software’s performance, security, usability, and functionality.
+   Defect Reporting: Identifying, documenting, and tracking bugs, and collaborating with developers to ensure issues are resolved.
+   Regression Testing: Re-testing software after bugs are fixed to ensure no new issues arise.
+   Quality Metrics: Monitoring and reporting on the overall quality of the product, including test coverage and defect rates.
+   User Acceptance Testing (UAT): Coordinating with end-users to ensure the software meets their needs before final release.
 
 3. Project Manager
-A project manager is responsible for overseeing the software development process from start to finish. They ensure that the project is delivered on time, within budget, and meets the defined goals and objectives.
+   A project manager is responsible for overseeing the software development process from start to finish. They ensure that the project is delivered on time, within budget, and meets the defined goals and objectives.
 
 Key Responsibilities includes;
 a) Project Planning: Defining project scope, objectives, timelines, and deliverables. Creating project schedules and assigning tasks to team members.
@@ -85,8 +88,7 @@ Examples of IDEs:
 Visual Studio Code: A widely-used, lightweight, and highly customizable IDE from Microsoft that supports multiple programming languages and is known for its robust extension marketplace.
 IntelliJ IDEA: A popular IDE for Java development from JetBrains, known for its intelligent code completion and powerful refactoring tools.
 Eclipse: An open-source IDE primarily used for Java development, offering a rich ecosystem of plugins and tools for building enterprise applications.
-PyCharm: A specialized IDE from JetBrains tailored for Python development, offering advanced code analysis, debugging, and integration features.
-2. Version Control Systems (VCS)
+PyCharm: A specialized IDE from JetBrains tailored for Python development, offering advanced code analysis, debugging, and integration features. 2. Version Control Systems (VCS)
 A Version Control System (VCS) is a tool that tracks changes to code and manages different versions of a software project over time. VCS allows developers to collaborate on a project by keeping track of every modification, maintaining a history of all versions, and enabling team members to work on the same codebase simultaneously without conflicts.
 
 Importance of VCS in Software Development:
@@ -104,30 +106,24 @@ What are some common challenges faced by software engineers? Provide strategies 
 Software engineers face several challenges that can impact their work and growth. Here are common issues and strategies to overcome them:
 
 1. Keeping Up with Rapid Tech Changes
-New languages, frameworks, and tools emerge frequently.
+   New languages, frameworks, and tools emerge frequently.
 
-Strategy: Prioritize foundational skills and selectively learn relevant technologies. Allocate time weekly for continuous learning.
-2. Managing Complex Codebases
+Strategy: Prioritize foundational skills and selectively learn relevant technologies. Allocate time weekly for continuous learning. 2. Managing Complex Codebases
 Large projects can become difficult to maintain and prone to bugs.
 
-Strategy: Use modular design, regular refactoring, and automated testing to keep code manageable.
-3. Debugging and Problem Solving
+Strategy: Use modular design, regular refactoring, and automated testing to keep code manageable. 3. Debugging and Problem Solving
 Identifying the root cause of issues can be time-consuming.
 
-Strategy: Adopt systematic debugging, leverage tools, and collaborate with peers.
-4. Balancing Quality vs. Deadlines
+Strategy: Adopt systematic debugging, leverage tools, and collaborate with peers. 4. Balancing Quality vs. Deadlines
 Rushing to meet deadlines can lead to technical debt.
 
-Strategy: Communicate risks to stakeholders, prioritize critical tasks, and follow Agile practices for iterative delivery.
-5. Cross-functional Collaboration
+Strategy: Communicate risks to stakeholders, prioritize critical tasks, and follow Agile practices for iterative delivery. 5. Cross-functional Collaboration
 Miscommunication with designers, QA, and managers can cause delays.
 
-Strategy: Ensure clear requirements, maintain regular communication, and approach conflicts with empathy and flexibility.
-6. Time Management and Burnout
+Strategy: Ensure clear requirements, maintain regular communication, and approach conflicts with empathy and flexibility. 6. Time Management and Burnout
 Handling multiple tasks and work-life balance can be stressful.
 
-Strategy: Prioritize tasks, set clear work boundaries, and automate repetitive work.
-7. Imposter Syndrome
+Strategy: Prioritize tasks, set clear work boundaries, and automate repetitive work. 7. Imposter Syndrome
 Self-doubt can hinder confidence and growth.
 
 Strategy: Focus on continuous learning, celebrate progress, and seek mentorship for support.
@@ -155,7 +151,6 @@ Importance: Confirms the software is ready for deployment and fulfills user expe
 Together, these testing levels help identify and address defects, leading to a more reliable and high-quality software product.
 
 #Part 2: Introduction to AI and Prompt Engineering
-
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 Prompt engineering is all about crafting questions or statements to get the best possible responses from AI models.
